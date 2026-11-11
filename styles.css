@@ -2525,21 +2525,21 @@ html[data-theme="dark"] .modal__content::-webkit-scrollbar-thumb:hover {
     gap: 3px;
   }
 
-  .btn span {
+  .toolbar__group--primary .btn span {
     display: none;
   }
 
-  .btn {
+  .toolbar__group--primary .btn {
     width: 34px;
     padding: 0;
   }
 
-  .btn--primary {
+  .toolbar__group--primary .btn--primary {
     width: auto;
     padding: 0 11px;
   }
 
-  .btn--primary span {
+  .toolbar__group--primary .btn--primary span {
     display: inline;
   }
 }
